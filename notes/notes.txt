@@ -1,0 +1,18 @@
+Unit 1: Machine Learning Basics
+
+Machine learning is a branch of artificial intelligence that allows systems to learn from data and improve their performance over time without being explicitly programmed.
+
+Supervised learning is a type of machine learning where the model is trained using labeled data. The system learns a mapping from inputs to outputs.
+
+Unsupervised learning involves training models on data without labels. The system tries to find patterns or groupings within the data.
+
+Reinforcement learning is a type of learning where an agent learns to make decisions by taking actions in an environment to maximize cumulative reward.
+
+Overfitting occurs when a model performs very well on training data but poorly on unseen data. It happens when the model memorizes the training data instead of learning general patterns.
+
+Underfitting occurs when a model is too simple to capture the underlying pattern in the data, resulting in poor performance on both training and unseen data.
+
+Evaluation metrics are used to assess the performance of machine learning models. Common metrics include accuracy, precision, recall, F1-score, and mean squared error.
+
+Feature engineering is the process of selecting, modifying, or creating new input features to improve model performance.
+
