@@ -51,8 +51,7 @@ Answer Generation
 medify_ragul/
 │
 ├── app.py # Main CLI application
-├── ui.py # Streamlit UI
-├── requirements.txt # Dependencies
+├── requirements.txt
 │
 ├── config/
 │ └── settings.py
